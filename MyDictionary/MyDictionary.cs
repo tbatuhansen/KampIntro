@@ -32,7 +32,7 @@ namespace MyDictionary
             }
             values[values.Length - 1] = value;
             Console.WriteLine();
-
+            
 
         }
         public void List()
